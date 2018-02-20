@@ -260,5 +260,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      classes: wide
 
 theme: jekyll-theme-minimal
