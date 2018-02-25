@@ -1,7 +1,7 @@
 ---
 title:  "Android"
 layout: archive
-permalink: /Android/
+permalink: /android/
 author_profile: true
 comments: true
 ---
