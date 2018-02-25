@@ -269,4 +269,8 @@ defaults:
       layout: single
       author_profile: true
 search: true
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 theme: jekyll-theme-minimal
