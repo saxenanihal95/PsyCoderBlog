@@ -186,6 +186,7 @@ sass:
 
 
 # Outputting
+filename: _pages/Android.md
 permalink: permalink: /:Android/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
