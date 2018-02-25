@@ -268,5 +268,5 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+search: true
 theme: jekyll-theme-minimal
