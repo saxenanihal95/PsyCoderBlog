@@ -68,9 +68,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "psycoderblog"
 facebook:
-  username               :
+  username               : "psycoderblog"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -101,7 +101,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "psycoderblog"
+  facebook         : 
   foursquare       :
   github           : "saxenanihal95"
   gitlab           :
@@ -115,7 +115,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "psycoderblog"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -246,6 +246,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -275,10 +279,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
 share: true
 search: true
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+
 theme: jekyll-theme-minimal
