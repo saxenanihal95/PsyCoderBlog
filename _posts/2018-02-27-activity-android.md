@@ -1,29 +1,14 @@
 ---
-title:  "Exclude Post from Search Index"
-search: false
+title:  "Activity in Android"
 categories: 
-  - Jekyll
-last_modified_at: 2018-02-19T08:06:00-05:00
+  - Android
 ---
 
-This post should not appear in the search index because it has the following YAML Front Matter:
+An Activity can be understood as a screen that performs a very particular action in an
+Android application (for example, we use an Activity to log in or to modify our profile).
+The activities interact with the user, they present a window and present an interactive
+UI inside (this is done through the function setContentView() ). Activities are typically
+full-screen or also as a floating screen. They have their own cycle, and are pilled within
+a stack of Activities handle by the operative system.
 
-```yaml
-search: false
-```
 
-**Note:** `search: false` only works to exclude posts when using Lunr as a search provider.
-{: .notice--info}
-
-To exclude files when using Algolia as a search provider add an array to `algolia.files_to_exclude` in your `_config.yml`. For more configuration options be sure to check their [full documentation](https://community.algolia.com/jekyll-algolia/options.html).
-
-```yaml
-algolia:
-  # Exclude more files from indexing
-  files_to_exclude:
-    - index.html
-    - index.md
-    - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
-    - subdirectory/*.html
-```
