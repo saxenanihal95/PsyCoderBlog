@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Machine Learning"
-    url: /machine-learning/
-  - title: "Android"
-    url: /android/
-  - title: "Data Structures"
-    url: /data-structures/
+  #- title: "Machine Learning"
+  #  url: /machine-learning/
+  #- title: "Android"
+  #  url: /android/
+  #- title: "Data Structures"
+  #  url: /data-structures/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
