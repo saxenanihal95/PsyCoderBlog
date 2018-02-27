@@ -1,5 +1,4 @@
 ---
-title: "Search Engine"
 excerpt: "A Simple Search Engine using nltk"
 categories:
   - Machine Learning
