@@ -9,10 +9,6 @@ tags:
 header:
   image: /assets/images/search-engine.jpg
   teaser: assets/images/search-engine.jpg
-gallery:
-  - url: /assets/images/search-engine.jpg
-    image_path: assets/images/search-engine.jpg
-    alt: "placeholder image 1"
     
 ---
 This is a very basic search engine which we build using the following steps :
