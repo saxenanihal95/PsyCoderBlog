@@ -1,3 +1,17 @@
+<style>
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+</style>
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -21,7 +35,6 @@
             "{{ teaser | absolute_url }}"
           {% endif %}
           alt="">
-        <button>github</button>
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
@@ -35,5 +48,6 @@
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    <a href="#" class="button">Link Button</a>
   </article>
 </div>
