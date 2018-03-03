@@ -49,5 +49,7 @@
     {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     <a href="https://github.com/saxenanihal95/{%post.title%}" class="button">github</a>
+     <a href="{{ category_word | slugify | prepend: path_type | prepend: site.category_archive.path | absolute_url }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+{% endfor %}
   </article>
 </div>
