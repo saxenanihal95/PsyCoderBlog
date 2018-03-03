@@ -6,7 +6,7 @@ tags:
   - machine-learning
   - supervised-learning
 header:
-  teaser: assets/images/icon.png
+  teaser: assets/images/PsyCoder1.png
     
 ---
 # Machine Learning Engineer Nanodegree
