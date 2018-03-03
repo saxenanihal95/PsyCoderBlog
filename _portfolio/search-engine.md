@@ -7,7 +7,7 @@ tags:
   - natural-language-processing
   - web-scraping
 header:
-  teaser: assets/images/search-engine.jpg
+  teaser: assets/images/search-engine.png
     
 ---
 This is a very basic search engine which we build using the following steps :
