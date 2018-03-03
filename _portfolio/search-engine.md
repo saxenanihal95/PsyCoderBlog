@@ -7,7 +7,7 @@ tags:
   - natural-language-processing
   - web-scraping
 header:
-  teaser: assets/images/icon.png
+  teaser: assets/images/PsyCoder1.png
     
 ---
 This is a very basic search engine which we build using the following steps :
