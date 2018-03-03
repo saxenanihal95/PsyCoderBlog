@@ -7,7 +7,6 @@ tags:
   - natural-language-processing
   - web-scraping
 header:
-  image: /assets/images/search-engine.jpg
   teaser: assets/images/search-engine.jpg
     
 ---
