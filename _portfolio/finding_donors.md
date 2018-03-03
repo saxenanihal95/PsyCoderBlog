@@ -1,4 +1,14 @@
-
+---
+excerpt: "To Find Donors for CharityML using supervised Learning"
+categories:
+  - Machine Learning
+tags:
+  - machine-learning
+  - supervised-learning
+header:
+  teaser: assets/images/search-engine.png
+    
+---
 # Machine Learning Engineer Nanodegree
 ## Supervised Learning
 ## Project: Finding Donors for *CharityML*
