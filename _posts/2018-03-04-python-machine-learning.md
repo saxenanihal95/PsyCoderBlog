@@ -1,6 +1,7 @@
-
-# Why use Python for Machine Learning
-
+---
+title : Why use Python for Machine Learning
+excerpt : the advantages of choosing python for machine learning
+---
 Machine learning is one the of the hottest topic in the tech world everyone is excited about learning more about it.
 
 And if you are one of them and not sure where to start and which programming language to choose as there are many programming languages then let me help you to choose one of them.
@@ -15,8 +16,8 @@ When you start learning any language then, the first thing you want from that la
 ## 2) Wide support for machine learning library:-
 
 Python is the language which supports various libraries for machine learning in which some of the important libraries are:-
-	PANDAS: It is one of the best libraries in python for data exploitation it provides various functions with which you could work upon easily, it also supports many file formats, and tools for visualization.
-	SKLEARN: It is the library which supports various machine learning algorithms, which can be easily applied through this library.
+	* PANDAS: It is one of the best libraries in python for data exploitation it provides various functions with which you could work upon easily, it also supports many file formats, and tools for visualization.
+	* SKLEARN: It is the library which supports various machine learning algorithms, which can be easily applied through this library.
 	
 ## 3) Can be Documented easily :
 
