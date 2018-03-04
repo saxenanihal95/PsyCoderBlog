@@ -1,6 +1,7 @@
 ---
 title : Why use Python for Machine Learning
 excerpt : the advantages of choosing python for machine learning
+categories : Mahine Learning
 ---
 Machine learning is one the of the hottest topic in the tech world everyone is excited about learning more about it.
 
