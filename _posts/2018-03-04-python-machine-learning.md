@@ -17,8 +17,8 @@ When you start learning any language then, the first thing you want from that la
 ## 2) Wide support for machine learning library:-
 
 Python is the language which supports various libraries for machine learning in which some of the important libraries are:-
-	* PANDAS: It is one of the best libraries in python for data exploitation it provides various functions with which you could work upon easily, it also supports many file formats, and tools for visualization.
-	* SKLEARN: It is the library which supports various machine learning algorithms, which can be easily applied through this library.
+* PANDAS: It is one of the best libraries in python for data exploitation it provides various functions with which you could work upon easily, it also supports many file formats, and tools for visualization.
+* SKLEARN: It is the library which supports various machine learning algorithms, which can be easily applied through this library.
 	
 ## 3) Can be Documented easily :
 
