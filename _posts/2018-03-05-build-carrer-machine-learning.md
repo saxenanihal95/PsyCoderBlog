@@ -1,5 +1,8 @@
 
-# How to build your career in Machine Learning/Data Science/AI
+---
+title: How to build your career in Machine Learning/Data Science/AI
+excerpt:  curious where to start from and what should be the ways to build a career in Machine Learning/Data Science/AI
+---
 
 Machine learning, Data Science, and Artificial Intelligence are the terms which are related to each other and the one who wants to build a career in one of these fields should be curious where to start from and what should be the ways to build a career in these fields in a way that time took should be less and ineffective manner.
 
