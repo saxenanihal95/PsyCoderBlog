@@ -8,16 +8,16 @@ Machine learning, Data Science, and Artificial Intelligence are the terms which 
 
 So here are some points that will help you to build a career in these fields:
 
-1) Learn Python:
+## 1) Learn Python:
 
 Python is my personal choice for machine learning as it provides various tools for machine learning like pandas, numpy, sklearn, etc
 and python language is very easy to learn as it is very similar to the pseudocode we use to write.
 
-2) Join Kaggle:
+## 2) Join Kaggle:
  
 The slogan of Kaggle,"Home of Data Science" which is a very awesome slogan chosen by them to describe their website. There are various competitions in Kaggle which will help you to increase your knowledge.
 
-3) Youtube:
+## 3) Youtube:
 
 One of the best sources for learners is youtube, there are so many channels you can find which are focused on AI, Data Science, Machine Learning.
 
