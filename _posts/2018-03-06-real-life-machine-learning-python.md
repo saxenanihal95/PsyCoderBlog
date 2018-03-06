@@ -1,8 +1,8 @@
-----
+---
 title : How Machine Learning/Data Science/AI is going to revolutionize marketing in future?
 excerpt : ever thought how advertisement recommendation, maps traffic prediction,voice assistant ,face detection work ? 
 categories: Machine Learning
-----
+---
 
 Machine Learning, Data Science and Artificial intelligence have been everywhere around you, below are some real-life applications of it :
 
