@@ -1,6 +1,7 @@
-
-# Advancements in Machine Learning for Finance
-
+---
+title: Advancements in Machine Learning for Finance
+categories : Mahine Learning
+---
 Machine Learning is spreading in every Field, Finance is now one of the fields in which there will be advancements and these advancements will lead everyone to a better life.
 
 Below are some of the upcoming advancements in Machine Learning for Finance :
