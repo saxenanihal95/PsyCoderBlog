@@ -1,4 +1,5 @@
 ---
+title : Predictin match winner in Cricket using machine learning
 excerpt: "Predictin match winner in Cricket using machine learning"
 categories:
   - Machine Learning
@@ -10,8 +11,6 @@ header:
   teaser: assets/images/PsyCoder1.png
     
 ---
-
-# Predictin match winner in Cricket using machine learning
 
 ## Data Preprocessing
 
