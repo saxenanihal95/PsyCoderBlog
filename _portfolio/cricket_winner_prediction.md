@@ -1,6 +1,6 @@
 ---
-title : Predictin match winner in Cricket using machine learning
-excerpt: "Predictin match winner in Cricket using machine learning"
+title : Predicting match winner in Cricket using machine learning
+excerpt: "Predicting match winner in Cricket using machine learning"
 categories:
   - Machine Learning
 tags:
