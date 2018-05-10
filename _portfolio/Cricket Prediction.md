@@ -1,3 +1,15 @@
+---
+excerpt: "Match Winner in Cricket using machine learning"
+categories:
+  - Machine Learning
+tags:
+  - machine-learning
+  - logistic-regression
+  - mlp-classifier
+header:
+  teaser: assets/images/PsyCoder1.png
+    
+---
 
 # Cricket Prediction using machine learning
 
