@@ -1,3 +1,17 @@
+---
+title: "Machine Learning"
+excerpt: "Creating Customer Segments"
+categories:
+  - Machine Learning
+tags:
+  - machine-learning-engineer-nanodegree
+  - unsupervised-learning
+  - machine-learning
+header:
+  teaser: assets/images/PsyCoder1.png
+    
+---
+
 
 # Machine Learning Engineer Nanodegree
 ## Unsupervised Learning
