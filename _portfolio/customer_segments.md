@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning"
+title: "Creating Customer Segments"
 excerpt: "Creating Customer Segments"
 categories:
   - Machine Learning
