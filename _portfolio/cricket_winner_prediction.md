@@ -1,5 +1,5 @@
 ---
-excerpt: "Match Winner in Cricket using machine learning"
+excerpt: "Predictin match winner in Cricket using machine learning"
 categories:
   - Machine Learning
 tags:
@@ -11,7 +11,7 @@ header:
     
 ---
 
-# Match Winner in Cricket using machine learning
+# Predictin match winner in Cricket using machine learning
 
 ## Data Preprocessing
 
