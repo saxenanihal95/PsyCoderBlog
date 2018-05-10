@@ -11,7 +11,7 @@ header:
     
 ---
 
-# Cricket Prediction using machine learning
+# Match Winner in Cricket using machine learning
 
 ## Data Preprocessing
 
